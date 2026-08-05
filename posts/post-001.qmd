@@ -1,0 +1,9 @@
+---
+title: "Searching for signs of the Rosehill Slip"
+description: "A narrated and somewhat (photographically) illustrated walk through River Park, then east towards Rosehill Cemetery and West Ridge Nature Park to look for signs we can see today of the Rosehill slip"
+date: "2026-08-05"
+categories: ["Geology", "Glaciers"]
+image: sandystream.png
+---
+
+This is a blog post...

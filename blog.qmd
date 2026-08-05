@@ -1,0 +1,18 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default # Options include default, grid, table
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  # image-height: "0"
+  feed:
+    categories: ["Geology", "Glaciers"]
+page-layout: full
+title-block-banner: false
+---
+::: {.column-page}
+
+:::
