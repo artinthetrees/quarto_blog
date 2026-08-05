@@ -4,12 +4,17 @@ project:
 
 website:
   title: "Andrea Tentner, Ph.D."
+  site-url: https://artinthetrees.github.io/quarto_blog
+  open-graph:
+    locale: en_US
   navbar:
     right:
       - text: Home
         href: index.qmd 
       - text: Blog
         href: blog.qmd
+  page-footer:
+    left: "Site created with Quarto by Andrea Tentner."
 
 format:
   html:
