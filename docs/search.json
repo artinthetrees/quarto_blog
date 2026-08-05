@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "posts/post-001.html",
+    "href": "posts/post-001.html",
+    "title": "Searching for signs of the Rosehill Slip",
+    "section": "",
+    "text": "This is a blog post…"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nSearching for signs of the Rosehill Slip\n\n\n\nGeology\n\nGlaciers\n\n\n\nA narrated and somewhat (photographically) illustrated walk through River Park, then east towards Rosehill Cemetery and West Ridge Nature Park to look for signs we can see today of the Rosehill slip\n\n\n\n\n\nAug 5, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Andrea Tentner, Ph.D.",
@@ -19,12 +40,5 @@
     "title": "Andrea Tentner, Ph.D.",
     "section": "",
     "text": "Real Feel Food Access - Hyperlocal climate-aware, spatiotemporally dynamic calculation of de facto access urban resident have to food stores\nArboreta in the Parks - A geospatial web application to help Chicago Park District Park Stewards attain and maintain arboretum status at their park. It tracks progress towards identification of 25 unique tree types as necessary to apply for arboretum status and maintenance of these trees in good conditions, and provides a publicly available map of park trees by type."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]
