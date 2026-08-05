@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "quarto_blog"
+  title: "Andrea Tentner, Ph.D."
   navbar:
     left:
       - href: index.qmd
