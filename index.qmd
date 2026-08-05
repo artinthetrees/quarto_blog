@@ -1,7 +1,40 @@
 ---
-title: "quarto_blog"
+title: "Andrea Tentner, Ph.D."
+about: # More info about this page type: https://quarto.org/docs/websites/website-about.html
+  template: trestles # Options include: jolla, trestles, solana, marquee, broadside
+  image: bike_ride.jpg
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/andreatentner/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/artinthetrees"
+    - text: Email
+      icon: envelope
+      url: "mailto:andrea.tentner@gmail.com"
+comments: false
 ---
+::: {.column-page}
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Add an intro/description later. 
+
+
+## Education
+
+
+Ph.D. in Biological Engineering, Massachussetts Institute of Technology
+
+M.P.H. in Social and Behavioral Sciences, Harvard T.H. Chan School of Public Health
+
+B.A. in Biological Sciences, The University of Chicago
+
+## Selected Projects
+
+
+[Real Feel Food Access](https://github.com/artinthetrees/real-feel-distance) - Hyperlocal climate-aware, spatiotemporally dynamic calculation of de facto access urban resident have to food stores
+
+[Arboreta in the Parks](https://github.com/artinthetrees/arboreta-in-the-parks) - A geospatial web application to help Chicago Park District Park Stewards attain and maintain arboretum status at their park. It tracks progress towards identification of 25 unique tree types as necessary to apply for arboretum status and maintenance of these trees in good conditions, and provides a publicly available map of park trees by type.
+
+:::
