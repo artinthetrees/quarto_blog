@@ -33,4 +33,4 @@ jobs:
           source-dir: ./docs/
           preview-branch: main
           qr-code: true
-          #pages-base-path: ./docs/
+          pages-base-path: ./docs/
