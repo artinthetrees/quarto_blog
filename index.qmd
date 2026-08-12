@@ -1,40 +1,53 @@
 ---
-title: "Andrea Tentner, Ph.D."
-about: # More info about this page type: https://quarto.org/docs/websites/website-about.html
-  template: trestles # Options include: jolla, trestles, solana, marquee, broadside
-  image: bike_ride.jpg
-  links:
-    - text: LinkedIn
-      icon: linkedin
-      url: "https://www.linkedin.com/in/andreatentner/"
-    - text: GitHub
-      icon: github
-      url: "https://github.com/artinthetrees"
-    - text: Email
-      icon: envelope
-      url: "mailto:andrea.tentner@gmail.com"
-comments: false
+title: "Rooted Data"
+subtitle: "Grounded insights, spatial analytics, and community-centered data infrastructure."
+page-layout: full
 ---
-::: {.column-page}
 
+::: {.hero-banner}
+::: {.hero-title}
+Data solutions rooted in community and place.
+:::
 
-Add an intro/description later. 
+::: {.hero-subtitle}
+Rooted Data is an independent data consultancy specializing in urban analytics, spatial science, ethical data governance, and custom web tools for public, civic, and community impact.
+:::
 
+[Explore Our Services](services.qmd){.btn .btn-primary .btn-lg role="button"}
+[Get in Touch](contact.qmd){.btn .btn-outline-primary .btn-lg role="button"}
+:::
 
-## Education
+## Core Capabilities
 
+::: {.services-grid}
 
-Ph.D. in Biological Engineering, Massachussetts Institute of Technology
+::: {.service-card}
+### 🗺️ Mapping & Urban Analytics
+Advanced spatial modeling, GIS analysis, and urban informatics to uncover geographic patterns and inform equitable planning decisions.
+:::
 
-M.P.H. in Social and Behavioral Sciences, Harvard T.H. Chan School of Public Health
+::: {.service-card}
+### 🔒 Data Governance & Sharing
+Building ethical data governance frameworks, data-sharing protocols, and privacy-preserving pipelines for inter-agency collaboration.
+:::
 
-B.A. in Biological Sciences, The University of Chicago
+::: {.service-card}
+### 🛠️ Software & Web App Tools
+Custom open-source tools, interactive dashboards, and web applications built to make complex data accessible and actionable.
+:::
 
-## Selected Projects
+::: {.service-card}
+### 🤝 Community Engagement
+Designing participatory data workflows, community-led data collection, and inclusive reporting that center local voices.
+:::
+
+:::
+
+<!-- ## Selected Projects
 
 
 [Real Feel Food Access](https://github.com/artinthetrees/real-feel-distance) - Hyperlocal climate-aware, spatiotemporally dynamic calculation of de facto access urban resident have to food stores
 
 [Arboreta in the Parks](https://github.com/artinthetrees/arboreta-in-the-parks) - A geospatial web application to help Chicago Park District Park Stewards attain and maintain arboretum status at their park. It tracks progress towards identification of 25 unique tree types as necessary to apply for arboretum status and maintenance of these trees in good conditions, and provides a publicly available map of park trees by type.
 
-:::
+::: -->

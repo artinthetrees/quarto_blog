@@ -3,26 +3,45 @@ project:
   output-dir: docs
 
 website:
-  title: "Andrea Tentner, Ph.D."
+  title: "Rooted Data"
+  favicon: images/favicon.png # Optional: add your icon here
   site-url: https://artinthetrees.github.io/quarto_blog
   open-graph:
     locale: en_US
   navbar:
+    background: primary
+    search: false
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Services"
+        href: services.qmd
+      - text: "Software & Tools"
+        href: tools.qmd
+      - text: "About"
+        href: about.qmd
     right:
-      - text: Home
-        href: index.qmd 
-      - text: Blog
-        href: blog.qmd
+      - text: "Get in Touch"
+        href: contact.qmd
+        aria-label: "Contact"
+        
   page-footer:
-    left: "Site created with Quarto by Andrea Tentner."
+    left: "© 2026 Rooted Data LLC. All rights reserved."
+    right: 
+      - icon: github
+        href: https://github.com/artinthetrees
+      - icon: linkedin
+        href: https://linkedin.com/in/andreatentner
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
-    css: styles.css
+      light: [flatly, styles.css]
+    # backgroundcolor: "#f4f7f4"
     toc: true
+    toc-depth: 2
+    smooth-scroll: true
+    mainfont: "Inter, system-ui, -apple-system, sans-serif"
 
 
 

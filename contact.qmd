@@ -1,0 +1,38 @@
+---
+title: "Get in Touch"
+---
+
+Whether you have a specific project in mind, need technical advisory on data governance, or want to explore potential collaborations, I’d love to connect.
+
+### Reach Out
+
+* **Email:** [andrea.tentner@rooteddata.org](mailto:andrea.tentner@rooteddata.org)
+* **Location:** Chicago, IL *(Available for remote work & local partnerships)*
+* **Book a Call:** [Link to your Calendly/meeting scheduler if applicable]
+
+---
+
+### Send a Message
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVPXp1vMaw3_XYLecMorRbBKmQ0JRgDzJ89qemZC_QGuoUFA/viewform?embedded=true" width="640" height="685" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+<!-- *(If hosting on GitHub Pages, you can embed a free form service like Formspree or Web3Forms below)*
+
+```html
+<form action="[https://formspree.io/f/YOUR_FORM_ID](https://formspree.io/f/YOUR_FORM_ID)" method="POST" style="max-width: 500px;">
+  <div class="mb-3">
+    <label class="form-label">Name</label>
+    <input type="text" name="name" class="form-control" required>
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Email</label>
+    <input type="email" name="email" class="form-control" required>
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Message</label>
+    <textarea name="message" class="form-control" rows="4" required></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary">Send Message</button>
+</form> -->
+
+---
