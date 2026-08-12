@@ -1,5 +1,36 @@
 ---
-title: "About"
+title: "About Rooted Data"
+about:
+  template: trestles
+  image: images/bike_ride.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/andreatentner
+    - icon: github
+      text: GitHub
+      href: https://github.com/artinthetrees
+    - icon: envelope
+      text: Email
+      href: mailto:andrea.tentner@rooteddata.org
 ---
 
-About this site
+## Grounded Analytics for Public Impact
+
+**Rooted Data** was founded on a simple principle: data analysis is most powerful when it is deeply connected to place and community. 
+
+Operating as an independent, single-founder practice, Rooted Data provides direct, end-to-end expertise—from technical architecture and spatial data modeling to stakeholder facilitation and web tool development.
+
+---
+
+### Meet the Founder
+
+**Andrea Tentner, PhD**  
+*Principal & Founder, Rooted Data*
+
+I am an urban analyst, data engineer, and practitioner with a background spanning GIS, data science, data ethics, and community engagement. I work closely with local governments, non-profits, research institutions, and community organizations to build data infrastructure that lasts.
+
+#### Areas of Focus
+* **Languages & Tools:** R, Python, SQL, Git, Quarto, PostGIS
+* **Web & Mapping:** Mapbox, Leaflet, Shiny, Streamlit
+* **Domain Expertise:** Urban informatics, ethical data governance, spatial equity
