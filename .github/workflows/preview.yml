@@ -4,6 +4,8 @@ name: Deploy PR previews
 
 on:
   pull_request:
+    paths:
+      - "docs/**"
     types:
       - opened
       - reopened
@@ -19,15 +21,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install and Build
-        if: github.event.action != 'closed' # We don't need the build if we know the preview will be removed
-        run: |
-          npm install
-          npm run build
+      # deployment strategy is currently to run quarto render locally to docs folder, add/commit/push updates to docs folder, so don't need to build after the push/pr
+      # - name: Install and Build
+      #   if: github.event.action != 'closed' # We don't need the build if we know the preview will be removed
+      #   run: |
+      #     npm install
+      #     npm run build
 
       - name: Deploy preview
         uses: rossjrw/pr-preview-action@v1
         with:
-          source-dir: ./build/
-          preview-branch: gh-pages
+          source-dir: ./docs/
+          preview-branch: main
           qr-code: true
