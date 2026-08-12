@@ -1,6 +1,7 @@
 # .github/workflows/preview.yml
 # https://github.com/marketplace/actions/deploy-pr-preview
 name: Deploy PR previews
+concurrency: preview-${{ github.ref }}
 
 on:
   pull_request:
@@ -11,8 +12,6 @@ on:
       - reopened
       - synchronize
       - closed
-
-concurrency: preview-${{ github.ref }}
 
 jobs:
   deploy-preview:
@@ -34,3 +33,4 @@ jobs:
           source-dir: ./docs/
           preview-branch: main
           qr-code: true
+          #pages-base-path: ./docs/
