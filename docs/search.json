@@ -1,10 +1,45 @@
 [
   {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Software & Web Apps",
+    "section": "",
+    "text": "A selection of open-source tools, spatial applications, and analytical prototypes built by Rooted Data."
+  },
+  {
+    "objectID": "tools.html#featured-applications",
+    "href": "tools.html#featured-applications",
+    "title": "Software & Web Apps",
+    "section": "Featured Applications",
+    "text": "Featured Applications\n\nCommunity Spatial Dashboard\n\nStack: R Shiny, Leaflet, PostGIS\nOverview: An interactive tool for exploring neighborhood-level census and environmental indicators.\n[Demo Link] | [Source Code]\n\n\n\nOpen Data Sharing Pipeline\n\nStack: Python, GeoPandas, GitHub Actions\nOverview: An automated ETL pipeline that formats, audits, and publishes open geospatial datasets on a recurring schedule.\n[Documentation] | [Source Code]"
+  },
+  {
     "objectID": "posts/post-001.html",
     "href": "posts/post-001.html",
     "title": "Searching for signs of the Rosehill Slip",
     "section": "",
     "text": "This is a blog post…"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get in Touch",
+    "section": "",
+    "text": "Whether you have a specific project in mind, need technical advisory on data governance, or want to explore potential collaborations, I’d love to connect.\n\nReach Out\n\nEmail: andrea.tentner@rooteddata.org\nLocation: Chicago, IL (Available for remote work & local partnerships)\nBook a Call: [Link to your Calendly/meeting scheduler if applicable]\n\n\n\n\nSend a Message\n\nLoading…"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Rooted Data",
+    "section": "",
+    "text": "Rooted Data was founded on a simple principle: data analysis is most powerful when it is deeply connected to place and community.\nOperating as an independent, single-founder practice, Rooted Data provides direct, end-to-end expertise—from technical architecture and spatial data modeling to stakeholder facilitation and web tool development.\n\n\n\nAndrea Tentner, PhD\nPrincipal & Founder, Rooted Data\nI am an urban analyst, data engineer, and practitioner with a background spanning GIS, data science, data ethics, and community engagement. I work closely with local governments, non-profits, research institutions, and community organizations to build data infrastructure that lasts.\n\n\n\nLanguages & Tools: R, Python, SQL, Git, Quarto, PostGIS\nWeb & Mapping: Mapbox, Leaflet, Shiny, Streamlit\nDomain Expertise: Urban informatics, ethical data governance, spatial equity"
+  },
+  {
+    "objectID": "about.html#grounded-analytics-for-public-impact",
+    "href": "about.html#grounded-analytics-for-public-impact",
+    "title": "About Rooted Data",
+    "section": "",
+    "text": "Rooted Data was founded on a simple principle: data analysis is most powerful when it is deeply connected to place and community.\nOperating as an independent, single-founder practice, Rooted Data provides direct, end-to-end expertise—from technical architecture and spatial data modeling to stakeholder facilitation and web tool development.\n\n\n\nAndrea Tentner, PhD\nPrincipal & Founder, Rooted Data\nI am an urban analyst, data engineer, and practitioner with a background spanning GIS, data science, data ethics, and community engagement. I work closely with local governments, non-profits, research institutions, and community organizations to build data infrastructure that lasts.\n\n\n\nLanguages & Tools: R, Python, SQL, Git, Quarto, PostGIS\nWeb & Mapping: Mapbox, Leaflet, Shiny, Streamlit\nDomain Expertise: Urban informatics, ethical data governance, spatial equity"
   },
   {
     "objectID": "blog.html",
@@ -14,31 +49,31 @@
     "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nSearching for signs of the Rosehill Slip\n\n\n\nGeology\n\nGlaciers\n\n\n\nA narrated and somewhat (photographically) illustrated walk through River Park, then east towards Rosehill Cemetery and West Ridge Nature Park to look for signs we can see today of the Rosehill slip\n\n\n\n\n\nAug 5, 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Andrea Tentner, Ph.D.",
+    "title": "Rooted Data",
     "section": "",
-    "text": "Add an intro/description later.\n\n\nPh.D. in Biological Engineering, Massachussetts Institute of Technology\nM.P.H. in Social and Behavioral Sciences, Harvard T.H. Chan School of Public Health\nB.A. in Biological Sciences, The University of Chicago\n\n\n\nReal Feel Food Access - Hyperlocal climate-aware, spatiotemporally dynamic calculation of de facto access urban resident have to food stores\nArboreta in the Parks - A geospatial web application to help Chicago Park District Park Stewards attain and maintain arboretum status at their park. It tracks progress towards identification of 25 unique tree types as necessary to apply for arboretum status and maintenance of these trees in good conditions, and provides a publicly available map of park trees by type."
+    "text": "Data solutions rooted in community and place.\n\n\nRooted Data is an independent data consultancy specializing in urban analytics, spatial science, ethical data governance, and custom web tools for public, civic, and community impact.\n\nExplore Our Services Get in Touch"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Andrea Tentner, Ph.D.",
-    "section": "",
-    "text": "Ph.D. in Biological Engineering, Massachussetts Institute of Technology\nM.P.H. in Social and Behavioral Sciences, Harvard T.H. Chan School of Public Health\nB.A. in Biological Sciences, The University of Chicago"
+    "objectID": "index.html#core-capabilities",
+    "href": "index.html#core-capabilities",
+    "title": "Rooted Data",
+    "section": "Core Capabilities",
+    "text": "Core Capabilities\n\n\n🗺️ Mapping & Urban Analytics\nAdvanced spatial modeling, GIS analysis, and urban informatics to uncover geographic patterns and inform equitable planning decisions.\n\n\n🔒 Data Governance & Sharing\nBuilding ethical data governance frameworks, data-sharing protocols, and privacy-preserving pipelines for inter-agency collaboration.\n\n\n🛠️ Software & Web App Tools\nCustom open-source tools, interactive dashboards, and web applications built to make complex data accessible and actionable.\n\n\n🤝 Community Engagement\nDesigning participatory data workflows, community-led data collection, and inclusive reporting that center local voices."
   },
   {
-    "objectID": "index.html#selected-projects",
-    "href": "index.html#selected-projects",
-    "title": "Andrea Tentner, Ph.D.",
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services & Expertise",
     "section": "",
-    "text": "Real Feel Food Access - Hyperlocal climate-aware, spatiotemporally dynamic calculation of de facto access urban resident have to food stores\nArboreta in the Parks - A geospatial web application to help Chicago Park District Park Stewards attain and maintain arboretum status at their park. It tracks progress towards identification of 25 unique tree types as necessary to apply for arboretum status and maintenance of these trees in good conditions, and provides a publicly available map of park trees by type."
+    "text": "At Rooted Data, technical analytical rigor meets deep context awareness. Every project is tailored to ensure data serves both organizational goals and the broader public good."
+  },
+  {
+    "objectID": "services.html#what-we-do",
+    "href": "services.html#what-we-do",
+    "title": "Services & Expertise",
+    "section": "What We Do",
+    "text": "What We Do\n\n1. Urban Analytics & Spatial Science\nWe combine geospatial analysis with data science to model urban systems, environmental patterns, and demographic shifts. * Custom GIS workflows & spatial data pipelines * Spatial statistics & predictive land-use modeling * Interactive web maps and spatial dashboards\n\n\n2. Data Governance & Responsible Sharing\nData is most valuable when shared safely and ethically. We help organizations build trust and infrastructure around sensitive datasets. * Data governance framework development * Secure inter-organizational data sharing agreements * Ethical data risk assessments and privacy protection\n\n\n3. Custom Software & Interactive Tools\nWhen off-the-shelf software falls short, we design custom analytical tools and web interfaces tailored to your team’s workflow. * Web applications (R Shiny, Python Streamlit, React/Mapbox) * Open-source data pipelines and R/Python packages * Automated reporting systems\n\n\n4. Community-Centered Engagement\nData should empower communities, not alienate them. We facilitate collaborative research and participatory data design. * Participatory mapping & community co-design workshops * Accessible data storytelling and public report design * Community data literacy training"
   }
 ]
