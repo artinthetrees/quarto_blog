@@ -27,10 +27,19 @@ jobs:
       #     npm install
       #     npm run build
 
+      # - name: Deploy preview
+      #   uses: rossjrw/pr-preview-action@v1
+      #   with:
+      #     source-dir: ./docs/
+      #     preview-branch: main
+      #     qr-code: true
+      #     #pages-base-path: ./docs/
+
       - name: Deploy preview
         uses: rossjrw/pr-preview-action@v1
         with:
-          source-dir: ./docs/
+          source-dir: docs
           preview-branch: main
+          umbrella-dir: docs/pr-preview
+          pages-base-path: docs
           qr-code: true
-          #pages-base-path: ./docs/
