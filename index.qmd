@@ -18,7 +18,7 @@ comments: false
 ::: {.column-page}
 
 
-Add an intro/description later. 
+Data Scientist, Public Health Researcher, Open Data & Code Enthusiast, Openlands TreeKeeper | Data Governance, Geospatial, Urban Analytics, Community Engagement | I care about changing human-made systems for good
 
 
 ## Education
@@ -33,8 +33,14 @@ B.A. in Biological Sciences, The University of Chicago
 ## Selected Projects
 
 
-[Real Feel Food Access](https://github.com/artinthetrees/real-feel-distance) - Hyperlocal climate-aware, spatiotemporally dynamic calculation of de facto access urban resident have to food stores
+[Real Feel Food Access](https://github.com/artinthetrees/real-feel-distance) - Environmental factors like heat and tree shade impact the ability of people to traverse distances to resources. Integrate this impact into food access/desert maps. Hyperlocal climate-aware, spatiotemporally dynamic calculation of de facto food access among urban residents 
 
 [Arboreta in the Parks](https://github.com/artinthetrees/arboreta-in-the-parks) - A geospatial web application to help Chicago Park District Park Stewards attain and maintain arboretum status at their park. It tracks progress towards identification of 25 unique tree types as necessary to apply for arboretum status and maintenance of these trees in good conditions, and provides a publicly available map of park trees by type.
+
+*Originally developed (in close collaboration with researchers) to facilitate FAIR data sharing by researchers spanning the wide range of research communities funded by the The National Institutes of Health Helping to End Addiction Long-term (HEAL) Initiative®, using the HEAL Data Package Framework and Tool to package data is easy, and results in high quality “Dataverse-ready” data packages, with structured metadata that makes data package review and re-use easier, and automatable.* 
+
+[HEAL Data Package Framework](https://github.com/norc-heal/heal-data-pkg-guide) - Detailed data packaging specifications and user-friendly web documentation
+
+[HEAL Data Package Tool](https://github.com/norc-heal/heal-data-pkg-tool) - Desktop tool that provides a user-friendly interface to operationalize data packaging and curation compliant with HEAL Data Package Framework specifications
 
 :::
