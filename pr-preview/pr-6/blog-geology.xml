@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Andrea Tentner, Ph.D.</title>
+<link>https://artinthetrees.github.io/quarto_blog/blog.html#category=Geology</link>
+<atom:link href="https://artinthetrees.github.io/quarto_blog/blog-geology.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Wed, 05 Aug 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Searching for signs of the Rosehill Slip</title>
+  <link>https://artinthetrees.github.io/quarto_blog/posts/post-001.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is a blog post…</p>
+
+
+
+ ]]></description>
+  <category>Geology</category>
+  <category>Glaciers</category>
+  <guid>https://artinthetrees.github.io/quarto_blog/posts/post-001.html</guid>
+  <pubDate>Wed, 05 Aug 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://artinthetrees.github.io/quarto_blog/posts/sandystream.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+</channel>
+</rss>
