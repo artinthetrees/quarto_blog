@@ -1,0 +1,31 @@
+---
+title: "Services & Expertise"
+---
+
+At **Rooted Data**, technical analytical rigor meets deep context awareness. Every project is tailored to ensure data serves both organizational goals and the broader public good.
+
+## What We Do
+
+### 1. Urban Analytics & Spatial Science
+We combine geospatial analysis with data science to model urban systems, environmental patterns, and demographic shifts.
+* Custom GIS workflows & spatial data pipelines
+* Spatial statistics & predictive land-use modeling
+* Interactive web maps and spatial dashboards
+
+### 2. Data Governance & Responsible Sharing
+Data is most valuable when shared safely and ethically. We help organizations build trust and infrastructure around sensitive datasets.
+* Data governance framework development
+* Secure inter-organizational data sharing agreements
+* Ethical data risk assessments and privacy protection
+
+### 3. Custom Software & Interactive Tools
+When off-the-shelf software falls short, we design custom analytical tools and web interfaces tailored to your team's workflow.
+* Web applications (R Shiny, Python Streamlit, React/Mapbox)
+* Open-source data pipelines and R/Python packages
+* Automated reporting systems
+
+### 4. Community-Centered Engagement
+Data should empower communities, not alienate them. We facilitate collaborative research and participatory data design.
+* Participatory mapping & community co-design workshops
+* Accessible data storytelling and public report design
+* Community data literacy training

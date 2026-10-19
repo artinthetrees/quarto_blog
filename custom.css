@@ -1,0 +1,70 @@
+/* Google Font for Typewriter Effect */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap');
+
+:root {
+    --color-dark-green: #142E21;
+    --color-accent-green: #2E5A44;
+    --color-text: #222222;
+    --color-bg-light: #FAFAFA;
+}
+
+body {
+    color: var(--color-text);
+    background-color: var(--color-bg-light);
+}
+
+/* Typewriter Title Styling */
+.typewriter-title {
+    font-family: 'Fira Code', monospace;
+    letter-spacing: -0.5px;
+}
+
+/* Homepage Hero Banner */
+.hero-banner {
+    background-color: var(--color-dark-green);
+    color: #FFFFFF;
+    padding: 4rem 2rem;
+    margin-bottom: 2.5rem;
+    border-radius: 4px;
+}
+
+.hero-banner h1 {
+    font-family: 'Fira Code', monospace;
+    color: #FFFFFF;
+    font-size: 2.75rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.hero-banner p.lead {
+    font-size: 1.25rem;
+    color: #E2EFE8;
+    max-width: 750px;
+    line-height: 1.6;
+}
+
+/* General Layout Tweaks */
+h1,
+h2,
+h3 {
+    font-family: 'Fira Code', monospace;
+    color: var(--color-dark-green);
+}
+
+a {
+    color: var(--color-accent-green);
+}
+
+a:hover {
+    color: var(--color-dark-green);
+}
+
+.btn-primary {
+    background-color: var(--color-accent-green);
+    border-color: var(--color-accent-green);
+}
+
+.btn-primary:hover {
+    background-color: var(--color-dark-green);
+    border-color: var(--color-dark-green);
+}

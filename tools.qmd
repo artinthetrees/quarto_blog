@@ -1,0 +1,17 @@
+---
+title: "Software & Web Apps"
+---
+
+A selection of open-source tools, spatial applications, and analytical prototypes built by Rooted Data.
+
+## Featured Applications
+
+### Community Spatial Dashboard
+* **Stack:** R Shiny, Leaflet, PostGIS
+* **Overview:** An interactive tool for exploring neighborhood-level census and environmental indicators.
+* [[Demo Link]](#) | [[Source Code]](#)
+
+### Open Data Sharing Pipeline
+* **Stack:** Python, GeoPandas, GitHub Actions
+* **Overview:** An automated ETL pipeline that formats, audits, and publishes open geospatial datasets on a recurring schedule.
+* [[Documentation]](#) | [[Source Code]](#)

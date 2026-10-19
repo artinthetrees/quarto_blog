@@ -1,0 +1,15 @@
+---
+title: "About"
+---
+
+## Founder & Principal
+
+**Rooted Data** is a solo data science consultancy founded and operated by **[Your Name]**.
+
+I work with public health organizations, municipal agencies, non-profits, and mission-driven teams to design reliable data pipelines and meaningful spatial analytics. 
+
+### Approach
+
+1. **Simplicity First:** Lightweight, maintainable code over complex, fragile software stacks.
+2. **Reproducibility:** Every workflow should produce verifiable results that your team can run and understand.
+3. **Open & Accessible:** Prioritizing tools and practices that make insights accessible to everyone involved.

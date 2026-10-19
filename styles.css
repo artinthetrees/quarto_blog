@@ -1,1 +1,58 @@
 /* css styles */
+
+/*-- scss:rules --*/
+
+/* Brand Color Palette */
+:root {
+    --bs-primary: #2c5e3b;
+    /* Earthy Forest Green */
+    --bs-secondary: #4a6fa5;
+    /* Slate Blue */
+}
+
+/* Hero Section */
+.hero-banner {
+    padding: 4rem 2rem;
+    background-color: #E6F2E7;
+    border-radius: 12px;
+    margin-bottom: 2.5rem;
+    border-left: 6px solid var(--bs-primary);
+}
+
+.hero-title {
+    font-size: 2.75rem;
+    font-weight: 700;
+    color: #1a3322;
+}
+
+.hero-subtitle {
+    font-size: 1.25rem;
+    color: #4a5568;
+    max-width: 800px;
+}
+
+/* Service Grid Cards */
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.service-card {
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 1.5rem;
+    background-color: #ffffff;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.service-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05);
+}
+
+.service-card h3 {
+    color: var(--bs-primary);
+    margin-top: 0;
+}

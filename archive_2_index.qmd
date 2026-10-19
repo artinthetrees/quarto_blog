@@ -1,0 +1,37 @@
+---
+title: ""
+---
+
+::: {.hero-banner}
+# Rooted Data
+
+A independent data consultancy building transparent, reproducible data systems and actionable geospatial analytics for public health and urban environments.
+:::
+
+## Focus Areas
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### Data Systems & Governance
+Building data infrastructure designed for clarity and automated standards.
+
+* **Strategy & Infrastructure:** Systems architecture focused on long-term sustainability.
+* **Transparency & Reproducibility:** Clean, verifiable pipelines readable by both internal teams and external stakeholders.
+* **Automated Standards:** Enforceable standards and protocols that maintain quality without manual overhead.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Spatial Science & Public Health
+Applying spatial analysis and custom tooling to complex civic and health challenges.
+
+* **Geospatial Data Science:** Custom spatial workflows, models, and data pipelines.
+* **Urban Analytics:** Data driven insights tailored for municipal and community applications.
+* **Community Engagement:** Tooling and visualizations that communicate complex data to public audiences.
+:::
+
+:::
+
+---
+
+[Get in touch to discuss a project &rarr;](contact.qmd){.btn .btn-primary .btn-lg role="button"}
