@@ -28,55 +28,6 @@
     "text": "Whether you have a specific project in mind, need technical advisory on data governance, or want to explore potential collaborations, I’d love to connect.\n\nReach Out\n\nEmail: hello@rooteddata.org\nLocation: [Chicago, IL] (Available for remote work & local partnerships) \n\n\n\n\nSend a Message\n\nLoading…"
   },
   {
-    "objectID": "archive_index.html",
-    "href": "archive_index.html",
-    "title": "Andrea Tentner, Ph.D.",
-    "section": "",
-    "text": "Data Scientist, Public Health Researcher, Open Data & Code Enthusiast, Openlands TreeKeeper | Data Governance, Geospatial, Urban Analytics, Community Engagement | I care about changing human-made systems for good\n\n\nPh.D. in Biological Engineering, Massachussetts Institute of Technology\nM.P.H. in Social and Behavioral Sciences, Harvard T.H. Chan School of Public Health\nB.A. in Biological Sciences, The University of Chicago\n\n\n\nTags: Geospatial Analytics Green-Infrastructure Food-Access Urban-Analytics Active-Transportation\nReal Feel Food Access - Environmental factors like heat and tree shade impact the ability of people to traverse distances to resources. Integrate this impact into food access/desert maps. Hyperlocal climate-aware, spatiotemporally dynamic calculation of de facto food access among urban residents\nTags: Geospatial Web-Application Green-Infrastructure Trees Citizen-Science Community-Engagement\nArboreta in the Parks - A geospatial web application to help Chicago Park District Park Stewards attain and maintain arboretum status at their park. It tracks progress towards identification of 25 unique tree types as necessary to apply for arboretum status and maintenance of these trees in good conditions, and provides a publicly available map of park trees by type.\nTags: Desktop-Application Data-Sharing Data-Packaging Metadata Open-Data\nOriginally developed (in close collaboration with researchers) to facilitate FAIR data sharing by researchers spanning the wide range of research communities funded by the The National Institutes of Health Helping to End Addiction Long-term (HEAL) Initiative®, using the HEAL Data Package Framework and Tool to package data is easy, and results in high quality “Dataverse-ready” data packages, with structured metadata that makes data package review and re-use easier, and automatable.\nHEAL Data Package Framework - Detailed data packaging specifications and user-friendly web documentation\nHEAL Data Package Tool - Desktop tool that provides a user-friendly interface to operationalize data packaging and curation compliant with HEAL Data Package Framework specifications"
-  },
-  {
-    "objectID": "archive_index.html#education",
-    "href": "archive_index.html#education",
-    "title": "Andrea Tentner, Ph.D.",
-    "section": "",
-    "text": "Ph.D. in Biological Engineering, Massachussetts Institute of Technology\nM.P.H. in Social and Behavioral Sciences, Harvard T.H. Chan School of Public Health\nB.A. in Biological Sciences, The University of Chicago"
-  },
-  {
-    "objectID": "archive_index.html#selected-projects",
-    "href": "archive_index.html#selected-projects",
-    "title": "Andrea Tentner, Ph.D.",
-    "section": "",
-    "text": "Tags: Geospatial Analytics Green-Infrastructure Food-Access Urban-Analytics Active-Transportation\nReal Feel Food Access - Environmental factors like heat and tree shade impact the ability of people to traverse distances to resources. Integrate this impact into food access/desert maps. Hyperlocal climate-aware, spatiotemporally dynamic calculation of de facto food access among urban residents\nTags: Geospatial Web-Application Green-Infrastructure Trees Citizen-Science Community-Engagement\nArboreta in the Parks - A geospatial web application to help Chicago Park District Park Stewards attain and maintain arboretum status at their park. It tracks progress towards identification of 25 unique tree types as necessary to apply for arboretum status and maintenance of these trees in good conditions, and provides a publicly available map of park trees by type.\nTags: Desktop-Application Data-Sharing Data-Packaging Metadata Open-Data\nOriginally developed (in close collaboration with researchers) to facilitate FAIR data sharing by researchers spanning the wide range of research communities funded by the The National Institutes of Health Helping to End Addiction Long-term (HEAL) Initiative®, using the HEAL Data Package Framework and Tool to package data is easy, and results in high quality “Dataverse-ready” data packages, with structured metadata that makes data package review and re-use easier, and automatable.\nHEAL Data Package Framework - Detailed data packaging specifications and user-friendly web documentation\nHEAL Data Package Tool - Desktop tool that provides a user-friendly interface to operationalize data packaging and curation compliant with HEAL Data Package Framework specifications"
-  },
-  {
-    "objectID": "archive_2_index.html",
-    "href": "archive_2_index.html",
-    "title": "Rooted Data",
-    "section": "",
-    "text": "A independent data consultancy building transparent, reproducible data systems and actionable geospatial analytics for public health and urban environments."
-  },
-  {
-    "objectID": "archive_2_index.html#focus-areas",
-    "href": "archive_2_index.html#focus-areas",
-    "title": "Rooted Data",
-    "section": "Focus Areas",
-    "text": "Focus Areas\n\n\nData Systems & Governance\nBuilding data infrastructure designed for clarity and automated standards.\n\nStrategy & Infrastructure: Systems architecture focused on long-term sustainability.\nTransparency & Reproducibility: Clean, verifiable pipelines readable by both internal teams and external stakeholders.\nAutomated Standards: Enforceable standards and protocols that maintain quality without manual overhead.\n\n\n\nSpatial Science & Public Health\nApplying spatial analysis and custom tooling to complex civic and health challenges.\n\nGeospatial Data Science: Custom spatial workflows, models, and data pipelines.\nUrban Analytics: Data driven insights tailored for municipal and community applications.\nCommunity Engagement: Tooling and visualizations that communicate complex data to public audiences.\n\n\n\n\nGet in touch to discuss a project →"
-  },
-  {
-    "objectID": "archive_2_about.html",
-    "href": "archive_2_about.html",
-    "title": "About",
-    "section": "",
-    "text": "Rooted Data is a solo data science consultancy founded and operated by [Your Name].\nI work with public health organizations, municipal agencies, non-profits, and mission-driven teams to design reliable data pipelines and meaningful spatial analytics.\n\n\n\nSimplicity First: Lightweight, maintainable code over complex, fragile software stacks.\nReproducibility: Every workflow should produce verifiable results that your team can run and understand.\nOpen & Accessible: Prioritizing tools and practices that make insights accessible to everyone involved."
-  },
-  {
-    "objectID": "archive_2_about.html#founder-principal",
-    "href": "archive_2_about.html#founder-principal",
-    "title": "About",
-    "section": "",
-    "text": "Rooted Data is a solo data science consultancy founded and operated by [Your Name].\nI work with public health organizations, municipal agencies, non-profits, and mission-driven teams to design reliable data pipelines and meaningful spatial analytics.\n\n\n\nSimplicity First: Lightweight, maintainable code over complex, fragile software stacks.\nReproducibility: Every workflow should produce verifiable results that your team can run and understand.\nOpen & Accessible: Prioritizing tools and practices that make insights accessible to everyone involved."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Rooted Data",
@@ -89,34 +40,6 @@
     "title": "About Rooted Data",
     "section": "",
     "text": "Rooted Data was founded on a simple principle: data analysis is most powerful when it is deeply connected to place and community.\nOperating as an independent, single-founder practice, Rooted Data provides direct, end-to-end expertise—from technical architecture and spatial data modeling to stakeholder facilitation and web tool development.\n\n\n\n[Your Name]\nPrincipal & Founder, Rooted Data\nI am an urban analyst, data engineer, and practitioner with a background spanning GIS, data science, data ethics, and community engagement. I work closely with local governments, non-profits, research institutions, and community organizations to build data infrastructure that lasts.\n\n\n\nLanguages & Tools: R, Python, SQL, Git, Quarto, PostGIS\nWeb & Mapping: Mapbox, Leaflet, Shiny, Streamlit\nDomain Expertise: Urban informatics, ethical data governance, spatial equity"
-  },
-  {
-    "objectID": "archive_2_contact.html",
-    "href": "archive_2_contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "If you have a project in mind or want to learn more about how Rooted Data can support your team, please get in touch.\n\n\nGet in Touch\n\nEmail: hello@rooteddata.example\nLocation: [Your City / Region]\nGitHub: github.com/your-username\nLinkedIn: linkedin.com/in/your-profile\n\n\n\nSchedule a Call\nAlternatively, feel free to submit a quick message using the form below:\n\n\n&lt;label for=\"name\" class=\"form-label\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"name\" name=\"name\" required&gt;\n\n\n&lt;label for=\"email\" class=\"form-label\"&gt;Email&lt;/label&gt;\n&lt;input type=\"email\" class=\"form-control\" id=\"email\" name=\"email\" required&gt;\n\n\n&lt;label for=\"message\" class=\"form-label\"&gt;Message&lt;/label&gt;\n&lt;textarea class=\"form-control\" id=\"message\" name=\"message\" rows=\"4\" required&gt;&lt;/textarea&gt;\n\n\nSend Message"
-  },
-  {
-    "objectID": "archive_2_services.html",
-    "href": "archive_2_services.html",
-    "title": "Services",
-    "section": "",
-    "text": "Rooted Data provides technical consulting and analytical development across two primary service areas:"
-  },
-  {
-    "objectID": "archive_2_services.html#data-strategy-infrastructure-governance",
-    "href": "archive_2_services.html#data-strategy-infrastructure-governance",
-    "title": "Services",
-    "section": "1. Data Strategy, Infrastructure & Governance",
-    "text": "1. Data Strategy, Infrastructure & Governance\nClear data processes reduce operational risk and increase trust. I design and implement data systems where transparency and standards are built-in from the start.\n\nReproducible Data Pipelines: Developing end-to-end data processing workflows that are fully auditable, automated, and documented.\nData Governance & Understandability: Creating standards that make data accessible and interpretable for both technical developers and non-technical stakeholders.\nAutomated Quality Controls: Setting up tools and continuous integration checks that enforce data validation and coding standards automatically."
-  },
-  {
-    "objectID": "archive_2_services.html#geospatial-science-urban-analytics",
-    "href": "archive_2_services.html#geospatial-science-urban-analytics",
-    "title": "Services",
-    "section": "2. Geospatial Science & Urban Analytics",
-    "text": "2. Geospatial Science & Urban Analytics\nBridging the gap between spatial data, urban planning, and community outcomes.\n\nSpatial Analysis & Tooling: Building specialized Python and R packages, custom web-mapping utilities, and spatial processing workflows.\nUrban & Public Health Analytics: Combining demographic, environmental, and health datasets to understand geographic trends and disparities.\nData Communication & Public Engagement: Translating technical spatial findings into clear dashboards, visual reports, and public-facing interfaces."
   },
   {
     "objectID": "blog.html",
