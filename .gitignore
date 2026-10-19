@@ -1,5 +1,5 @@
 
 /.quarto/
 **/*.quarto_ipynb
-/docs/pr-preview/*
+#/docs/pr-preview/*
 suggestions*.txt
