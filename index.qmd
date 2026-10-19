@@ -10,7 +10,7 @@ Data solutions rooted in community and place.
 :::
 
 ::: {.hero-subtitle}
-Rooted Data is an independent data consultancy specializing in urban analytics, spatial science, ethical data governance, and custom web tools for public, civic, and community impact.
+Rooted Data is an independent data consultancy specializing in urban analytics, spatial science, ethical data governance, and custom web tools for public, civic, and community impact. Blah blah blah.
 :::
 
 [Explore Our Services](services.qmd){.btn .btn-primary .btn-lg role="button"}
