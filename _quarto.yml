@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Andrea Tentner, Ph.D."
+  favicon: images/roots_favicon.png
   site-url: https://artinthetrees.github.io/quarto_blog
   open-graph:
     locale: en_US
