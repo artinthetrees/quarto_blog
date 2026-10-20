@@ -22,6 +22,8 @@ website:
         href: tools.qmd
       - text: "About"
         href: about.qmd
+      - text: "Projects"
+        href: blog.qmd
       - text: "Publications"
         href: publications.qmd
     right:
