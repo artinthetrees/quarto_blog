@@ -2,6 +2,13 @@
 title: "Rooted Data"
 subtitle: "Grounded insights, spatial analytics, and community-centered data infrastructure."
 page-layout: full
+listing:
+  id: featured-posts
+  contents: posts
+  include:
+    featured: true
+  type: grid
+  sort: "date desc"
 ---
 
 ::: {.hero-banner}
@@ -15,7 +22,15 @@ Rooted Data is an independent data consultancy specializing in urban analytics, 
 
 [Explore Our Services](services.qmd){.btn .btn-primary .btn-lg role="button"}
 [Get in Touch](contact.qmd){.btn .btn-outline-primary .btn-lg role="button"}
+
 :::
+
+## Featured Projects
+
+::: {#featured-posts}
+:::
+
+
 
 ## Core Capabilities
 
