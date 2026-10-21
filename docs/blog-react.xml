@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Rooted Data</title>
+<link>https://artinthetrees.github.io/quarto_blog/blog.html#category=React</link>
+<atom:link href="https://artinthetrees.github.io/quarto_blog/blog-react.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Wed, 21 Oct 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Arboreta in the Parks</title>
+  <link>https://artinthetrees.github.io/quarto_blog/posts/post-003/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://artinthetrees.github.io/quarto_blog/posts/post-003/arb-in-the-park-screen-cap.png" class="img-fluid" alt="Optional caption describing the image"> This is a blog post…</p>
+
+
+
+ ]]></description>
+  <category>Python</category>
+  <category>Django</category>
+  <category>Javascript</category>
+  <category>React</category>
+  <category>Trees</category>
+  <guid>https://artinthetrees.github.io/quarto_blog/posts/post-003/</guid>
+  <pubDate>Wed, 21 Oct 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://artinthetrees.github.io/quarto_blog/posts/post-003/arb-in-the-park-screen-cap.png" medium="image" type="image/png" height="87" width="144"/>
+</item>
+</channel>
+</rss>

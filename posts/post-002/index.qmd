@@ -1,0 +1,11 @@
+---
+title: "Real Feel Food Access"
+description: "Environmental factors like heat and tree shade impact the ability to traverse distances to resources. Integrate this impact into food access/desert maps."
+date: "2026-10-20"
+categories: ["R", "Geospatial Analytics", "Food Access"]
+image: image1.png
+featured: true
+---
+
+![Optional caption describing the image](image1.png)
+This is a blog post...

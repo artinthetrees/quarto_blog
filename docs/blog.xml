@@ -5,30 +5,72 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Andrea Tentner, Ph.D.</title>
+<title>Rooted Data</title>
 <link>https://artinthetrees.github.io/quarto_blog/blog.html</link>
 <atom:link href="https://artinthetrees.github.io/quarto_blog/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Wed, 05 Aug 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 05:00:00 GMT</lastBuildDate>
 <item>
-  <title>Searching for signs of the Rosehill Slip</title>
-  <link>https://artinthetrees.github.io/quarto_blog/posts/post-001.html</link>
+  <title>Arboreta in the Parks</title>
+  <link>https://artinthetrees.github.io/quarto_blog/posts/post-003/</link>
   <description><![CDATA[ 
 
 
 
 
-<p>This is a blog post…</p>
+<p><img src="https://artinthetrees.github.io/quarto_blog/posts/post-003/arb-in-the-park-screen-cap.png" class="img-fluid" alt="Optional caption describing the image"> This is a blog post…</p>
+
+
+
+ ]]></description>
+  <category>Python</category>
+  <category>Django</category>
+  <category>Javascript</category>
+  <category>React</category>
+  <category>Trees</category>
+  <guid>https://artinthetrees.github.io/quarto_blog/posts/post-003/</guid>
+  <pubDate>Wed, 21 Oct 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://artinthetrees.github.io/quarto_blog/posts/post-003/arb-in-the-park-screen-cap.png" medium="image" type="image/png" height="87" width="144"/>
+</item>
+<item>
+  <title>Real Feel Food Access</title>
+  <link>https://artinthetrees.github.io/quarto_blog/posts/post-002/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://artinthetrees.github.io/quarto_blog/posts/post-002/image1.png" class="img-fluid" alt="Optional caption describing the image"> This is a blog post…</p>
+
+
+
+ ]]></description>
+  <category>R</category>
+  <category>Geospatial Analytics</category>
+  <category>Food Access</category>
+  <guid>https://artinthetrees.github.io/quarto_blog/posts/post-002/</guid>
+  <pubDate>Tue, 20 Oct 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://artinthetrees.github.io/quarto_blog/posts/post-002/image1.png" medium="image" type="image/png" height="112" width="144"/>
+</item>
+<item>
+  <title>Searching for signs of the Rosehill Slip</title>
+  <link>https://artinthetrees.github.io/quarto_blog/posts/post-001/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://artinthetrees.github.io/quarto_blog/posts/post-001/sandystream.png" class="img-fluid" alt="Optional caption describing the image"> This is a blog post…</p>
 
 
 
  ]]></description>
   <category>Geology</category>
   <category>Glaciers</category>
-  <guid>https://artinthetrees.github.io/quarto_blog/posts/post-001.html</guid>
+  <guid>https://artinthetrees.github.io/quarto_blog/posts/post-001/</guid>
   <pubDate>Wed, 05 Aug 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://artinthetrees.github.io/quarto_blog/posts/sandystream.png" medium="image" type="image/png" height="144" width="144"/>
+  <media:content url="https://artinthetrees.github.io/quarto_blog/posts/post-001/sandystream.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
 </rss>

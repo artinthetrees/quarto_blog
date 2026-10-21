@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Projects"
 listing:
   contents: posts
   sort: "date desc"
@@ -9,7 +9,7 @@ listing:
   filter-ui: true
   # image-height: "0"
   feed:
-    categories: ["Geology", "Glaciers"]
+    categories: ["Geology", "Glaciers", "Trees", "Green Infrastructure", "Geospatial Analytics", "Predictive Analytics", "Machine Learning", "Web Application", "Desktop Application", "Python", "R", "Django", "Postgres", "Javascript", "React", "AWS Cloud Services", "Infrastructure as Code", "Terraform", "GNU Make", "Docker"]
 page-layout: full
 title-block-banner: false
 ---

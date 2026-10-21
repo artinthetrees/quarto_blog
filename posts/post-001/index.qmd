@@ -6,4 +6,5 @@ categories: ["Geology", "Glaciers"]
 image: sandystream.png
 ---
 
+![Optional caption describing the image](sandystream.png)
 This is a blog post...
