@@ -10,6 +10,28 @@
 <atom:link href="https://artinthetrees.github.io/quarto_blog/blog-django.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Tue, 20 Oct 2026 21:58:49 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Arboreta in the Parks</title>
+  <link>https://artinthetrees.github.io/quarto_blog/posts/post-003/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://artinthetrees.github.io/quarto_blog/posts/post-003/arb-in-the-park-screen-cap.png" class="img-fluid" alt="Optional caption describing the image"> This is a blog post…</p>
+
+
+
+ ]]></description>
+  <category>Python</category>
+  <category>Django</category>
+  <category>Javascript</category>
+  <category>React</category>
+  <category>Trees</category>
+  <guid>https://artinthetrees.github.io/quarto_blog/posts/post-003/</guid>
+  <pubDate>Wed, 21 Oct 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://artinthetrees.github.io/quarto_blog/posts/post-003/arb-in-the-park-screen-cap.png" medium="image" type="image/png" height="87" width="144"/>
+</item>
 </channel>
 </rss>

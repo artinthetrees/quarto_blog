@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Rooted Data</title>
+<link>https://artinthetrees.github.io/quarto_blog/blog.html#category=Geospatial%20Analytics</link>
+<atom:link href="https://artinthetrees.github.io/quarto_blog/blog-geospatial analytics.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Tue, 20 Oct 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Real Feel Food Access</title>
+  <link>https://artinthetrees.github.io/quarto_blog/posts/post-002/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://artinthetrees.github.io/quarto_blog/posts/post-002/image1.png" class="img-fluid" alt="Optional caption describing the image"> This is a blog post…</p>
+
+
+
+ ]]></description>
+  <category>R</category>
+  <category>Geospatial Analytics</category>
+  <category>Food Access</category>
+  <guid>https://artinthetrees.github.io/quarto_blog/posts/post-002/</guid>
+  <pubDate>Tue, 20 Oct 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://artinthetrees.github.io/quarto_blog/posts/post-002/image1.png" medium="image" type="image/png" height="112" width="144"/>
+</item>
+</channel>
+</rss>
