@@ -165,7 +165,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <ul>
-<li><p>Jelveh, Z., <strong>Tentner, A.</strong>, Beberman, X., &amp; Pollack, H. (2026). Predicting behavioral health-involved police encounters: A machine learning approach. Journal of Quantitative Criminology, 1-42.</p></li>
+<li><p>Jelveh, Z., <strong>Tentner, A.</strong>, Beberman, X., &amp; Pollack, H. (2026). Predicting behavioral health-involved police encounters: A machine learning approach. Journal of Quantitative Criminology, 1-42. <a href="https://doi.org/10.1007/s10940-026-09671-9">DOI</a> | <a href="files/papers/Jelveh_et_al-2026-Journal_of_Quantitative_Criminology.pdf" class="external" target="_blank">PDF</a></p></li>
 <li><p>Larrick, B. M., Schumm, L. P., Shao, M., Barnes, C., Juehne, A., Juvvla, H. P., Kranz, M. B., Lukowski, M., Malson, C., Mazerik, J. N., Meyer, C. G., Qureshi, J., Spaniol, E., <strong>Tentner, A.R.</strong>, VanTol, A., Vassilatos, P., Volk de Garcia, S., Grossman, R. L. (2025). The HEAL Data Platform. arXiv preprint arXiv:2512.17506.</p></li>
 <li><p><strong>Tentner, A. R.</strong> (2023). Integrating Environmental Barriers into Food Desert Maps: Improving measurement of resource access inequities. NORC Working Paper Series WP-2032.02.</p></li>
 <li><p>Netterfield, T. S., Ostheimer, G. J., <strong>Tentner, A. R.</strong>, Joughin, B. A., Dakoyannis, A. M., Sharma, C. D., … &amp; Yaffe, M. B. (2023). Biphasic JNK-Erk signaling separates the induction and maintenance of cell senescence after DNA damage induced by topoisomerase II inhibition. Cell Systems, 14(7), 582-604.</p></li>
@@ -266,6 +266,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
