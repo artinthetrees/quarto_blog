@@ -1,0 +1,11 @@
+---
+title: "Arboreta in the Parks"
+description: "A web application to help Chicago Park District Park Stewards attain and maintain arboretum status at their park. It tracks progress towards identification of 25 unique tree types as necessary to apply for arboretum status and maintenance of these trees in good conditions, and provides a publicly available map of park trees by type."
+date: "2026-10-21"
+categories: ["Python", "Django", "Javascript", "React", "Trees"]
+image: arb-in-the-park-screen-cap.png
+featured: true
+---
+
+![Optional caption describing the image](arb-in-the-park-screen-cap.png)
+This is a blog post...
