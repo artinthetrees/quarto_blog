@@ -2,7 +2,7 @@
 title: "Publications & Working Papers"
 ---
 
-* Jelveh, Z., **Tentner, A.**, Beberman, X., & Pollack, H. (2026). Predicting behavioral health-involved police encounters: A machine learning approach. Journal of Quantitative Criminology, 1-42.
+* Jelveh, Z., **Tentner, A.**, Beberman, X., & Pollack, H. (2026). Predicting behavioral health-involved police encounters: A machine learning approach. Journal of Quantitative Criminology, 1-42. [DOI](https://doi.org/10.1007/s10940-026-09671-9)  |  [PDF](files/papers/Jelveh_et_al-2026-Journal_of_Quantitative_Criminology.pdf){.external target="_blank"}
 
 * Larrick, B. M., Schumm, L. P., Shao, M., Barnes, C., Juehne, A., Juvvla, H. P., Kranz, M. B., Lukowski, M., Malson, C., Mazerik, J. N., Meyer, C. G., Qureshi, J., Spaniol, E., **Tentner, A.R.**, VanTol, A., Vassilatos, P., Volk de Garcia, S., Grossman, R. L. (2025). The HEAL Data Platform. arXiv preprint arXiv:2512.17506.
 

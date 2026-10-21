@@ -47,5 +47,6 @@ format:
     toc-depth: 2
     smooth-scroll: true
     mainfont: "Inter, system-ui, -apple-system, sans-serif"
+    link-external-newwindow: true
 
 
